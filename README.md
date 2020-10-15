@@ -4,12 +4,11 @@ Once done scraping - Go to Excel and import the file with custom delimeter - #$#
 
 You will nicely fomated below fields.
 
-name
-gender
-location
-phone
-website
-mailId
-degree
-specialization
-
+Name,
+Gender,
+Location,
+Phone,
+Website,
+MailId,
+Degree,
+Specialization
